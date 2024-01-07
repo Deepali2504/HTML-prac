@@ -1,0 +1,53 @@
+.img{
+    float: left;
+    width:25%;
+    height:auto;
+    padding: 0%;
+    margin: 0%;
+
+}
+.p{
+    text-align:right;
+    font-size: large;
+    color:crimson;
+}
+.fame1{
+    float: top;
+    width: 100%;
+    height: 20%;
+    border-color: crimson;
+    margin: 0%;
+    padding: 0%;
+    background-color: aliceblue;
+}
+.frame11{
+    width: 84%;
+    height: 580px;
+    float: right;
+    border-color: crimson;
+    margin: 0%;
+    padding: 0%;
+    background-color: aliceblue;
+
+}
+.frame2{
+    width: 15%;
+    border-color: crimson;
+    height: 580px;
+    float: left;
+    margin: 0%;
+    padding: 0%;
+    background-color: aliceblue;
+
+}
+.body{
+    background-color: rgb(255, 148, 170);
+}
+.h{
+    color:crimson;
+    font-size: 70px;
+}
+.p1{
+    font-size: large;
+    color:rgb(254, 102, 133);
+}
